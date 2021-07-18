@@ -3,9 +3,10 @@
 Just a starter template which uses / includes:
 1. TypeScript.
 2. Express.
-3. TypeORM. (PostgreSQL)
-4. Passport.
-5. NextJs.
+3. Axios.
+4. TypeORM. (PostgreSQL)
+5. Passport.
+6. NextJs.
 
 _NOTE: for those times when you don't want to use a framework._
 
@@ -13,7 +14,7 @@ _NOTE: for those times when you don't want to use a framework._
 
 1. Run `npm i` command to install backend dependencies.
 2. Next `cd frontend`.
-3. Run `npm i` command to install nextjs dependencies.
+3. Then run `npm i` command to install nextjs dependencies.
 4. Setup database settings inside `ormconfig.json` file.
 5. Run `docker-compose up` command (optional) or execute your local postgres db server.
 6. Choose one of the following command to start de server:
