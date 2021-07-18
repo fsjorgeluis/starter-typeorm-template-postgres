@@ -1,4 +1,4 @@
-# Starter template developed with TypeScript, Express and TypeORM.
+# Starter template developed with TypeScript, Express, TypeORM and NextJs .
 
 Steps to run this project:
 
