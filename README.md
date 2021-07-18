@@ -31,3 +31,4 @@ _NOTE: for those times when you don't want to use a framework._
 1. Link your migration code to package.json scripts.
 2. Choose how to use routes, that's why you'll see a folder `routes` and a file `routes.ts`.
 3. Connect frontend to backend.
+4. Maybe add ESLint, for linting your code. xD
