@@ -17,7 +17,7 @@ _NOTE: for those times when you don't want to use a framework._
 3. Then run `npm i` command to install nextjs dependencies.
 4. Setup database settings inside `ormconfig.json` file.
 5. Run `docker-compose up` command (optional) or execute your local postgres db server.
-6. Choose one of the following command to start de server:
+6. While in root, choose one of the following command to start de server:
     - `npm run build` compile the project to deploy.
     - `npm run start` start the server.
     - `npm run dev:client` start the frontend app.
