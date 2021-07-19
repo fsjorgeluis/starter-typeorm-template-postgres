@@ -4,7 +4,15 @@
     ],
     "ext": "ts,json",
     "ignore": [
-        "src/**/*.spec.ts"
+        "src/**/*.spec.ts",
+        ".git",
+        "node_modules/",
+        "dist/",
+        "coverage/",
+        "frontend/"
     ],
+    "env": {
+        "NODE_ENV": "development"
+    },
     "exec": "ts-node ./src/index.ts"
 }
